@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Lista de Tareas</string>
+    <string name="volver">Volver</string>
+
+
+    //Pantalla principal
+    <string name="Ptitulo">Mis <br /> Tareas</string>
+    <string name="Biniciarsecion">Iniciar Session</string>
+    <string name="Bcrearcuenta">Crear Cuenta</string>
+    <string name="Bsalir">Salir</string>
+
+
+    //Pantalla Crear Cuenta
+    <string name="Ctitulo">CREAR CUENTA</string>
+    <string name="EscribaAqui">Escribir Aqui</string>
+    <string name="Cusuario">Usuario:</string>
+    <string name="Ccontraseña">Contraseña:</string>
+    <string name="Crepitacontraseña">Repetir Contraseña:</string>
+    <string name="Caceptar">Aceptar</string>
+    <string name="Magregar">Agregar</string>
+    <string name="Mborrar">Borrar</string>
+    <string name="MborrarT">Borrar Tarea</string>
+    <string name="Meditar">Editar</string>
+
+    <string name="Agregar">AGREGAR TAREA</string>
+    <string name="Atitulo">Titulo de la Tarea</string>
+    <string name="TAtitulo">Tareas Realizadas</string>
+    <string name="Ades">Descripcion</string>
+    <string name="Aguardar">Guardar</string>
+    <string name="Realizada">Tareas Realizadas</string>
+    <string name="ARealizada">Agregar a Tareas Realizadas</string>
+
+
+</resources>
