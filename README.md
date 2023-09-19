@@ -1,11 +1,10 @@
 # Proyecto "Mis_Tareas"
-      Descripcion:
-Este Proyecto llamado "Mis Tareas" esta realizada con el lenguaje KOTLIN en el entorno de desarrollo ANDROID STUDIO.
-
-Cabe aclarar que no soy diseñador por eso la interfaz no es tan llamativa.
-      Resumen:
+      Este Proyecto llamado "Mis Tareas" esta realizada con el lenguaje KOTLIN en el entorno de desarrollo ANDROID STUDIO.
+      Cabe aclarar que no soy diseñador por eso la interfaz no es tan llamativa.
       
-Es una app donde podes:
+Resumen:
+      
+      Es una app donde podes:
 -Crear una cuenta
 -Loguearte(iniciar sesion,cerrar sesion)
 -Crear tareas
