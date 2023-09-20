@@ -1,1 +1,10 @@
-holaaa
+Crear_Cuenta
+
+      DESCRIPCION:
+      Se encarga de crear una cuenta para un usuario ingresando nombre del usuario y contraseña 
+      -Bajar la lista de todos los usuarios que fueron creados quedandose con su nombre
+      (para despues compararlos y asi no se creen usuarios repeditos)
+      -Verifica si las contraseñas ingresadas coincidan
+      -Se crea al usuario y lo agrega a la lista para despues poner iniciar sesion
+      -Utilize SharetPreferences para guardar la lista de forma persistente
+      (combiertiendola primero en un objeto GSON)
