@@ -21,7 +21,9 @@ Resumen de las clases utilizadas
 
 https://github.com/Calisaya-Manu/_Mis_Tareas_/blob/master/app/src/main/Resumen%20Clases      
 
-![manu](https://github.com/Calisaya-Manu/_Mis_Tareas_/assets/102339222/0b2c5f24-de98-4d1d-a52b-59bc1cfba11d)
+Imagenes de la App:
+
+      
 
       
       
