@@ -1,6 +1,9 @@
 # Proyecto "Mis_Tareas"
       Este Proyecto llamado "Mis Tareas" esta realizada con el lenguaje KOTLIN en el entorno de desarrollo ANDROID STUDIO.
       "Cabe aclarar que no soy diseñador por eso la interfaz no es tan llamativa"
+      Tiempo Estimado:
+      -7 Dias
+      -2 a 4 hrs diarias
       
 Resumen:
 
