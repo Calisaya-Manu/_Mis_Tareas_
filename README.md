@@ -14,15 +14,7 @@ Resumen:
       🖱️Eliminar las tareas (realizadas o no)
       🖱️Editar las tareas no realizadas
 
-Herramientas utilizadas:
-
-      Para este proyecto utilize varias Herramientas o tipo de datos.
-      Cabe aclarar que algunos de estos no los conocia.
-
-      -MutableList<Array<String>>
-      -ListView
-      -objetos GSON
-      -SharedPreferences
+https://github.com/Calisaya-Manu/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/Crear_Cuenta.kt
       
 
 
