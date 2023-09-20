@@ -19,11 +19,11 @@ Resumen:
 
 Resumen de las clases utilizadas
 
-https://github.com/Calisaya-Manu/_Mis_Tareas_/blob/master/app/src/main/Resumen%20Clases      
+      https://github.com/Calisaya-Manu/_Mis_Tareas_/blob/master/app/src/main/Resumen%20Clases      
 
 Imagenes de la App:
 
-      
+      https://github.com/Calisaya-Manu/_Mis_Tareas_/tree/master/fotos
 
       
       
