@@ -35,6 +35,8 @@
       -Si no tenia Tareas cargadas muestra un mensaje
       -Al precsonar una Tarea va directamente al panel de editar
       (Asi se aprecia el contenido total de la tarea donde se puede "editar y borrar" la tareas)
+
+      .
       
 <h3 align="center">agregarTarea</h3>
 <img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230529.png" alt="Texto Alternativo" width="120" height="220" />
@@ -45,9 +47,13 @@
       -Me bajo la lista de Tareas
       -Agrego la tarea a la lista
       -Guardo la lista de forma persistente
+
+
+
+      .
       
 <h3 align="center">editarNota</h3>
-<img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230513.png" alt="Texto Alternativo" width="120" height="220" />
+<img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20231001_204007.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
       Se encarga de editar y borrar una tarea o agregarla al panel de Tareas Realizadas
@@ -57,6 +63,8 @@
       -Si la edito la cargo de vuelta a la lista en la misma posicion
       -Si la marco como realizada elimino la tarea y la envio a tareas realizadas
       -Guardo la lista de forma persistente
+
+      .
 <h3 align="center">tareasREalizadas</h3>
 <img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230551.png" alt="Texto Alternativo" width="120" height="220" />
 
@@ -67,6 +75,13 @@
       -si se recibio una nota para guardar le agrego a la lista y guardo la lista
       -si se presiona en una nota va directamente al panel editar
 
-"Cabe aclarar que la clase editarNota es utilizada por TareasRealizadas y MisNotas donde tuve que agregar un idenificador para saber
+
+
+      .
+
+<h4 align="center">
+       "Cabe aclarar que la clase editarNota es utilizada por TareasRealizadas y MisNotas donde tuve que agregar un idenificador para saber
 que actividad realizo la invocacion".
 -En caso de realizarla tareasREalizadas se desabilito los botones guardar y agregar a tareas reaalizadas
+</h4>
+       
