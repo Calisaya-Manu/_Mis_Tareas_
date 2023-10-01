@@ -1,5 +1,5 @@
 <h3 align="center">Crear_Cuenta</h3>       
-<img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230410.png" alt="Texto Alternativo" width="120" height="220" />
+<img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230621.png" alt="Texto Alternativo" width="120" height="220" />
 
        DESCRIPCION:
       Se encarga de crear una cuenta para un usuario ingresando nombre del usuario y contraseña 
@@ -10,16 +10,23 @@
       -Utilize SharetPreferences para guardar la lista de forma persistente
       (combiertiendola primero en un objeto GSON)
       .
-
+<br>
+<br>
 <h3 align="center">Iniciar_Sesion</h3>
-
+<img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230453.png" alt="Texto Alternativo" width="120" height="220" />
+     
       DESCRIPCION:
       Se encarga de Comprobar el nombre y contraseña de la lista de usuarios que fueron creados anteriormente
       -Baja la lista de todos los usuario
       -Compara los datos ingresados con los de la lista para ver si hay un usuario
       -Cuando se validan los datos en nombre del usuario mas la contraseña se convierten en una clave de sharedPreference
       (para asi mostrar la lista de tareas de cada usuario)
+
+
+      .
+      
 <h3 align="center">MisNotas</h3>
+<img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230513.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
       Muestra la lista de Tareas del usuario con el cual inicio la sesion se puede agregar tareas e ir a las tareas realizadas
@@ -28,7 +35,9 @@
       -Si no tenia Tareas cargadas muestra un mensaje
       -Al precsonar una Tarea va directamente al panel de editar
       (Asi se aprecia el contenido total de la tarea donde se puede "editar y borrar" la tareas)
+      
 <h3 align="center">agregarTarea</h3>
+<img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230529.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
       Agrega una tarea en la lista de tareas del usuario
@@ -38,6 +47,7 @@
       -Guardo la lista de forma persistente
       
 <h3 align="center">editarNota</h3>
+<img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230513.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
       Se encarga de editar y borrar una tarea o agregarla al panel de Tareas Realizadas
@@ -48,6 +58,7 @@
       -Si la marco como realizada elimino la tarea y la envio a tareas realizadas
       -Guardo la lista de forma persistente
 <h3 align="center">tareasREalizadas</h3>
+<img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230551.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
       se encarga de mostrar las tareas realizadas 
