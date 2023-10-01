@@ -1,4 +1,4 @@
-<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/Calisaya-Manuel/edit/main/README.md">Crear_Cuenta </a></h3>       
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/Crear_Cuenta.kt">👉 Crear_Cuenta 👈 </a></h3>       
 <img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230621.png" alt="Texto Alternativo" width="120" height="220" />
 
        DESCRIPCION:
@@ -10,9 +10,7 @@
       -Utilize SharetPreferences para guardar la lista de forma persistente
       (combiertiendola primero en un objeto GSON)
       .
-<br>
-<br>
-<h3 align="center">Iniciar_Sesion</h3>
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/Iniciar_Sesion.kt">👉 Iniciar_Sesion 👈</a></h3>  
 <img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230453.png" alt="Texto Alternativo" width="120" height="220" />
      
       DESCRIPCION:
@@ -24,8 +22,8 @@
 
 
       .
-      
-<h3 align="center">MisNotas</h3>
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/MisNotas.kt">👉 MisNotas 👈 </a></h3>      
+
 <img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230513.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
@@ -37,8 +35,7 @@
       (Asi se aprecia el contenido total de la tarea donde se puede "editar y borrar" la tareas)
 
       .
-      
-<h3 align="center">agregarTarea</h3>
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/AgregarTarea.kt">👉 agregarTarea 👈</a></h3>        
 <img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230529.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
@@ -51,8 +48,7 @@
 
 
       .
-      
-<h3 align="center">editarNota</h3>
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/editarNota.kt">👉 editarNota 👈</a></h3>        
 <img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20231001_204007.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
@@ -65,7 +61,7 @@
       -Guardo la lista de forma persistente
 
       .
-<h3 align="center">tareasREalizadas</h3>
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/tareasRealizadas.kt">👉 tareasREalizadas 👈 </a></h3>       
 <img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230551.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
@@ -77,8 +73,7 @@
 
 
 
-      .
-
+      . 
 <h4 align="center">
        "Cabe aclarar que la clase editarNota es utilizada por TareasRealizadas y MisNotas donde tuve que agregar un idenificador para saber
 que actividad realizo la invocacion".
