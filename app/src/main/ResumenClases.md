@@ -1,4 +1,5 @@
-<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/Crear_Cuenta.kt">👉 Crear_Cuenta 👈 </a></h3>       
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/Crear_Cuenta.kt">👉 Crear_Cuenta 👈 </a></h3>  
+<h6 align="left"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/res/layout/activity_crear_cuenta.xml" > Layout Vinculado  </a><h6>
 <img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230621.png" alt="Texto Alternativo" width="120" height="220" />
 
        DESCRIPCION:
@@ -10,7 +11,8 @@
       -Utilize SharetPreferences para guardar la lista de forma persistente
       (combiertiendola primero en un objeto GSON)
       .
-<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/Iniciar_Sesion.kt">👉 Iniciar_Sesion 👈</a></h3>  
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/Iniciar_Sesion.kt">👉 Iniciar_Sesion 👈</a></h3>
+<h6 align="left"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/res/layout/activity_iniciar_sesion.xml" > Layout Vinculado  </a><h6>
 <img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230453.png" alt="Texto Alternativo" width="120" height="220" />
      
       DESCRIPCION:
@@ -23,7 +25,7 @@
 
       .
 <h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/MisNotas.kt">👉 MisNotas 👈 </a></h3>      
-
+<h6 align="left"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/res/layout/activity_mis_notas.xml" > Layout Vinculado  </a><h6>
 <img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230513.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
@@ -35,7 +37,8 @@
       (Asi se aprecia el contenido total de la tarea donde se puede "editar y borrar" la tareas)
 
       .
-<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/AgregarTarea.kt">👉 agregarTarea 👈</a></h3>        
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/AgregarTarea.kt">👉 agregarTarea 👈</a></h3>  
+<h6 align="left"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/res/layout/activity_agregar_tarea.xml" > Layout Vinculado  </a><h6>
 <img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230529.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
@@ -48,7 +51,8 @@
 
 
       .
-<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/editarNota.kt">👉 editarNota 👈</a></h3>        
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/editarNota.kt">👉 editarNota 👈</a></h3>    
+<h6 align="left"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/res/layout/activity_editar_nota.xml" > Layout Vinculado  </a><h6>
 <img align="left" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20231001_204007.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
@@ -61,7 +65,8 @@
       -Guardo la lista de forma persistente
 
       .
-<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/tareasRealizadas.kt">👉 tareasREalizadas 👈 </a></h3>       
+<h3 align="center"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/java/com/example/listadetareas/tareasRealizadas.kt">👉 tareasREalizadas 👈 </a></h3>  
+<h6 align="left"> <a href="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/app/src/main/res/layout/activity_tareas_realizadas.xml" > Layout Vinculado  </a><h6>
 <img align="right" src="https://github.com/Calisaya-Manuel/_Mis_Tareas_/blob/master/fotos/Screenshot_20230919_230551.png" alt="Texto Alternativo" width="120" height="220" />
 
       DESCRIPCION:
